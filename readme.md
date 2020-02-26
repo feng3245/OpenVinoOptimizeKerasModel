@@ -3,3 +3,5 @@ be optimized to IR representation and used for inference against wav files simil
 It appears that OpenVino does not support translation of one of the rnn multiplication layers out of the box and custom layers needs to be made
 
 This repository will be updated iteratively
+
+(All commands are in jupyter notebook)
